@@ -1,0 +1,4 @@
+interface OS
+{
+	void spec();
+}
